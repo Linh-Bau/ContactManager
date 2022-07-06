@@ -1,0 +1,6 @@
+E:\VisualStudio\Git\MyDLL\ContactManager\Models\bin\Debug\Models.dll
+E:\VisualStudio\Git\MyDLL\ContactManager\Models\bin\Debug\Models.pdb
+E:\VisualStudio\Git\MyDLL\ContactManager\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+E:\VisualStudio\Git\MyDLL\ContactManager\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+E:\VisualStudio\Git\MyDLL\ContactManager\Models\obj\Debug\Models.dll
+E:\VisualStudio\Git\MyDLL\ContactManager\Models\obj\Debug\Models.pdb
